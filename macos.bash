@@ -7,5 +7,5 @@ WPA=$(cd ${WP}; pwd)
 cd "${SCR_DIR}"
 source darwin.bash
 source brew.bash
-source req.txt
+source req.bash
 exit 0
