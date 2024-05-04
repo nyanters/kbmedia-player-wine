@@ -1,0 +1,19 @@
+### all ignore ###
+/*
+/.**
+/.DS_Store
+/**/.DS_Store
+
+!/.git/
+!/.git/**
+!/.Brewfile
+!/.gitignore
+!/brew.bash
+!/cfg.bash
+!/darwin.bash
+!/macos.bash
+!/README.md
+!/reg.bash
+!/req.bash
+!/req.txt
+!/run.bash
