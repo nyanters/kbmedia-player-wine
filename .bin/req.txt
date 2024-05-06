@@ -1,4 +1,4 @@
 https://aka.ms/vs/17/release/VC_redist.x64.exe
 https://aka.ms/vs/17/release/VC_redist.x86.exe
-https://kobarin.sakura.ne.jp/kbmedia/kbmed312.7z
+https://kobarin.sakura.ne.jp/kbmedia/kbmed313.7z
 
