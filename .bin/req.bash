@@ -12,8 +12,7 @@ wine \
 VC_redist.x86.exe
 rm -f VC_redist.x64.exe
 rm -f VC_redist.x86.exe
-7z x kbmed312.7z
-rm -f kbmed312.7z
-mv $HOME/.wine ${WP}
+7z x kbmed315.7z
+rm -f kbmed315.7z
 exit 0
 
